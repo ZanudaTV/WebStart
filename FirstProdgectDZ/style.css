@@ -1,0 +1,20 @@
+img{
+    width: 800px;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: #ef0cc9;
+}
+.IMG_Style{
+    font-size: 2rem;
+}
+ul{
+    list-style-type: disc;
+}
+body{
+    background-color: rgba(247,255,138,0.44);
+    background-image: url("https://www.sunhome.ru/i/wallpapers/82/samie-svetlie-oboi.orig.jpg") ;
+    background-size: 200rem;
+}
