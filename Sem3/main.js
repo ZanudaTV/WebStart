@@ -10,6 +10,20 @@
 //             https://learn.javascript.ru/network
 // теперь можно учить рекакт или вьюjs
 
+// https: gb.ru/posts/kak-testirovat-api-ili-postman-dlya-chajnikov
+// Тестирование API c postman: https://www.youtube.com/watch?v=zfrQtU8eCEo
+// На степике: https://stepik.org/course/120679/info
+// Еще инфо: https://academy.yandex.ru/handbook/python/article/potokovyj-vvodvyvod-rabota-s-tekstovymi-fajlami-json
+
+// <?xml version="1.0" encoding="UTF-8"?>
+// https://jsonformatter.org/xml-formatter
+//     https://disk.yandex.ru/i/i3tcrj3vPxwwvg
+
+// https://jsonformatter.org/json-parser
+//     https://disk.yandex.ru/i/XMW2QlG2VjNkRA
+//         Павел 10:43
+// https://disk.yandex.ru/i/ehL6g0t_hCk8Xg
+
 // Функция getMaxEvenElement принимает массив с целыми числами, необходимо
 // реализовать функцию так, чтобы она возвращала значение большего элемента массива,
 // который записан в четном индексе включая 0.
